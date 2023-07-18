@@ -33,7 +33,7 @@
 
 # [5.结构体](../struct-type/src/main.rs)
 
-# 6.枚举
+# [6.枚举](../enum-type/src/main.rs)
 
 # 7.模块系统
 
