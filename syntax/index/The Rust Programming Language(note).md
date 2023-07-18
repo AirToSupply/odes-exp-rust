@@ -31,7 +31,7 @@
 - [4.3 引用和借用](../borrow-limits/src/main.rs)
 - [4.4 切片](../slice/src/main.rs)
 
-# 5.结构体
+# [5.结构体](../struct-type/src/main.rs)
 
 # 6.枚举
 
