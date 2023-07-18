@@ -29,7 +29,7 @@
 - [4.1 内存模型比较](../owner/doc/memory-model.md)
 - [4.2 所有权规则](../owner/README.md)
 - [4.3 引用和借用](../borrow-limits/src/main.rs)
-- 4.4 切片
+- [4.4 切片](../slice/src/main.rs)
 
 # 5.结构体
 
