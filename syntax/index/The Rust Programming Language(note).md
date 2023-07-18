@@ -24,5 +24,10 @@
 - [3.4 注释](../comment/src/main.rs)
 - [3.5 控制流](../condition/src/main.rs)
 
+# 4.所有权
+
+- [4.1 内存模型比较](../owner/doc/memory model.md)
+- [4.2 所有权规则](../owner/README.md)
+
 
 
