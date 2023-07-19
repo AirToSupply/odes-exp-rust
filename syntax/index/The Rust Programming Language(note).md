@@ -43,7 +43,7 @@
 
 - [8.2 String](../string-type/src/main.rs)
 
-- 8.3 HashMap
+- [8.3 HashMap](../map-type/src/main.rs)
 
 # 9.异常和错误处理
 
