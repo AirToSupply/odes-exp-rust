@@ -41,7 +41,7 @@
 
 - [8.1 Vector](../vector-type/src/main.rs)
 
-- 8.2 String
+- [8.2 String](../string-type/src/main.rs)
 
 - 8.3 HashMap
 
