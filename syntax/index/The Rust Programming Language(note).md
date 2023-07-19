@@ -39,7 +39,7 @@
 
 # 8.常用集合
 
-- 8.1 Vector
+- [8.1 Vector](../vector-type/src/main.rs)
 
 - 8.2 String
 
