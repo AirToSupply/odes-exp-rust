@@ -102,6 +102,14 @@ crate                             // crate root
 
 ## 2.枚举的访问修饰符
 
+# 路径引入
+
+## [1.use关键字的用法](../modules/import-path/src/lib.rs)
+
+## [2.use + as 解决引入冲突](../modules/import-path/src/conflict.rs)
+
+## [3.引入最佳实现](../modules/import-path/src/optimize.rs)
+
 # 总结
 
 （1）Rust的模块系统概念包括：包（package）,包装箱（crate）,模块（module）和路径（path）；模块系统概的目的是用于有效的组织代码。
