@@ -51,7 +51,7 @@
 
 - [10.1 泛型数据类型](../generics/src/main.rs)
 
-- 10.2 定义共同行为Trait
+- [10.2 定义共同行为-trait](../traits/README.md)
 
 - 10.3 生命周期确保引用有效
 
