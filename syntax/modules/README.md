@@ -110,6 +110,8 @@ crate                             // crate root
 
 ## [3.引入最佳实现](../modules/import-path/src/optimize.rs)
 
+# [如何将模块拆分成多个文件](../modules/backyard/)
+
 # 总结
 
 （1）Rust的模块系统概念包括：包（package）,包装箱（crate）,模块（module）和路径（path）；模块系统概的目的是用于有效的组织代码。
