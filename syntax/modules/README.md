@@ -88,13 +88,19 @@ crate                             // crate root
 
 ​		3⃣️ 一个包中可以包含任意数量的二进制crate。		
 
-# [路径访问方式](../access-path/src/lib.rs)
+# [路径访问方式](../modules/access-path/src/lib.rs)
 
 ## 1.绝对路径
 
 ## 2.相对路径
 
 ## 3.super关键的相对路径
+
+# [访问修饰符](../modules/modifier/src/lib.rs)
+
+## 1.结构体的访问修饰符
+
+## 2.枚举的访问修饰符
 
 # 总结
 
