@@ -62,7 +62,7 @@
 # 13.函数式编程
 
 - [13.1 闭包](../closure/src/main.rs)
-- 13.2 迭代器
+- [13.2 迭代器](../iterator/src/main.rs)
 
 # 14.什么是crate
 
