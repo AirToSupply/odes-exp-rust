@@ -8,7 +8,7 @@ fn main() {
     count_iterator_chaininng();
 }
 
-// [case=0] 创建迭代器
+// [case-0] 创建迭代器
 fn create_iterator() {
     let v = vec![1, 2, 3];
     // it: Iter<i32>
