@@ -240,7 +240,7 @@ test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; fini
 
 # 测试的组织结构
 
-​		参考项目：[sample-test](../sample-test/)
+​		参考项目：[sample-test](./sample-test/)
 
 ## 1.单元测试
 
@@ -274,7 +274,7 @@ mod tests {
 
 ## 2.集成测试
 
-​		在Rust中，集成测试主要用于测试系统中对外暴露的函数或者接口。一般将每个集成测试文件放置在项目的家目录下的tests目录中。比如：[sample-test](../sample-test/)。集成测试的目录结构如下：
+​		在Rust中，集成测试主要用于测试系统中对外暴露的函数或者接口。一般将每个集成测试文件放置在项目的家目录下的tests目录中。比如：[sample-test](./sample-test/)。集成测试的目录结构如下：
 
 ```shell
 sample-test
