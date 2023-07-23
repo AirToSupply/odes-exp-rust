@@ -68,7 +68,7 @@
 
 # 15.智能指针
 
-- 15.1 Box
+- [15.1 智能指针-Box](../smart-pointer/pointer-box/src/main.rs)
 
 - 15.2 Deref特征
 
