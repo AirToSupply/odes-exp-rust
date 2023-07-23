@@ -70,7 +70,7 @@
 
 - [15.1 智能指针-Box](../smart-pointer/pointer-box/src/main.rs)
 
-- 15.2 Deref特征
+- [15.2 Deref特征](../smart-pointer/trait-deref/src/main.rs)
 
 - 15.3 Drop特征
 
