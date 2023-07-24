@@ -76,7 +76,7 @@
 
 - [15.4 引用计数智能指针-Rc](../smart-pointer/pointer-rc/src/main.rs)
 
-- 15.5 内部可变性模式和RefCell
+- [15.5 内部可变性模式和内部可变性智能指针-RefCell](../smart-pointer/pointer-refcell/src/main.rs)
 
 - 15.6 循环引用和内存泄漏
 
