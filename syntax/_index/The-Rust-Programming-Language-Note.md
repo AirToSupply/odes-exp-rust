@@ -72,7 +72,7 @@
 
 - [15.2 Deref特征](../smart-pointer/trait-deref/src/main.rs)
 
-- 15.3 Drop特征
+- [15.3 Drop特征](../smart-pointer/trait-drop/src/main.rs)
 
 - 15.4 引用计数器
 
