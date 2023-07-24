@@ -74,9 +74,9 @@
 
 - [15.3 Drop特征](../smart-pointer/trait-drop/src/main.rs)
 
-- 15.4 引用计数器
+- [15.4 引用计数智能指针-Rc](../smart-pointer/pointer-rc/src/main.rs)
 
-- 15.5 内部可变性模式
+- 15.5 内部可变性模式和RefCell
 
 - 15.6 循环引用和内存泄漏
 
