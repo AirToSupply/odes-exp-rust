@@ -79,6 +79,7 @@
 - [15.5 内部可变性模式和内部可变性智能指针-RefCell](../smart-pointer/pointer-refcell/src/main.rs)
 
 - [15.6 循环引用和内存泄漏](../smart-pointer/circual-refer-and-memory-leak/src/main.rs)
+- [15.7 弱引用智能指针-Weak](../smart-pointer/pointer-weak/src/main.rs)
 
 # 16.无畏并发
 
