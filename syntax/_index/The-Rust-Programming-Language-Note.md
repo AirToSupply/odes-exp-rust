@@ -92,7 +92,9 @@
 
 # 17.面向对象特性
 
-17.1 封装
+- [17.1 封装](../oop/encapsulation/src/main.rs)
+
+- [17.2 继承](../oop/inheritance/src/main.rs)
 
 # 18.模式与模式匹配
 
