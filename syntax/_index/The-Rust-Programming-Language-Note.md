@@ -87,8 +87,8 @@
 
 - [16.2 使用消息传递完成线程间通信](../concurrency/channel/src/main.rs)
 
-- [16.3 共享状态并发和互斥器Mutex](../concurrency/mutex/src/main.rs)
-- 16.4 原子引用计数器智能指针Arc
+- [16.3 共享状态并发和互斥器-Mutex](../concurrency/mutex/src/main.rs)
+- [16.4 原子引用计数器智能指针-Arc](../concurrency/arc/src/main.rs)
 
 # 17.面向对象特性
 
