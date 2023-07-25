@@ -85,7 +85,7 @@
 
 - [16.1 创建线程](../concurrency/thread/src/main.rs)
 
-- 16.2 消息传递
+- [16.2 使用消息传递完成线程间通信](../concurrency/channel/src/main.rs)
 
 - 16.3 共享状态并发
 
