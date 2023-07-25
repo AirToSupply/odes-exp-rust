@@ -95,6 +95,7 @@
 - [17.1 封装](../oop/encapsulation/src/main.rs)
 
 - [17.2 继承](../oop/inheritance/src/main.rs)
+- [17.3 多态和特征对象（trait object）](../oop/trait-object/src/)
 
 # 18.模式与模式匹配
 
