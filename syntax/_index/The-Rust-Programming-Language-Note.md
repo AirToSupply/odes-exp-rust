@@ -102,7 +102,10 @@
 
 # 19.高级特征
 
-[19.1 不安全代码-unsafe](../advanced/unsafe-rust/src/main.rs)
+- [19.1 不安全代码-unsafe](../advanced/unsafe-rust/src/main.rs)
+- [19.2 高级特征](../advanced/advance-trait/src/main.rs)
+
+
 
 # 20.如何构建Web服务器
 
