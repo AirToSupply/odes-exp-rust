@@ -14,7 +14,7 @@
 
 - [1.2 入门案例](../hello-rust/hello.rs)
 
-# [2.猜数字游戏](../../example/guessing-game/src/main.rs)
+# [2.实战项目：猜数字游戏](../../example/guessing-game/src/main.rs)
 
 # 3.基本语法
 
@@ -57,14 +57,14 @@
 
 # [11.自动化测试](../test/README.md)
 
-# 12.如何构建命令行程序
+# 12.实战项目：如何构建命令行程序
 
 # 13.函数式编程
 
 - [13.1 闭包](../closure/src/main.rs)
 - [13.2 迭代器](../iterator/src/main.rs)
 
-# 14.什么是crate
+# 14.发布配置构建和工作空间
 
 # 15.智能指针
 
@@ -107,7 +107,9 @@
 - [19.3 高级类型](../advanced/advance-type/src/main.rs)
 - [19.4 函数指针和闭包](../advanced/advance-func-and-closure/src/main.rs)
 
-# 20.如何构建Web服务器
+# 20.宏
+
+# 21.实战项目：如何构建Web服务器
 
 
 
