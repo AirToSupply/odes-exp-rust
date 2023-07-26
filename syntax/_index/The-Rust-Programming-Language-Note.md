@@ -98,9 +98,11 @@
 - [17.3 多态和特征对象（trait object）](../oop/trait-object/src/)
 - [17.4 设计模式-状态模式](../oop/blog/src/)
 
-# 18.模式与模式匹配
+# [18.模式与模式匹配](../matchs/src/main.rs)
 
 # 19.高级特征
+
+[19.1 不安全代码-unsafe](../advanced/unsafe-rust/src/main.rs)
 
 # 20.如何构建Web服务器
 
