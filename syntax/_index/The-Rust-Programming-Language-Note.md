@@ -104,6 +104,7 @@
 
 - [19.1 不安全代码-unsafe](../advanced/unsafe-rust/src/main.rs)
 - [19.2 高级特征](../advanced/advance-trait/src/main.rs)
+- [19.3 高级类型](../advanced/advance-type/src/main.rs)
 
 
 
