@@ -105,8 +105,7 @@
 - [19.1 不安全代码-unsafe](../advanced/unsafe-rust/src/main.rs)
 - [19.2 高级特征](../advanced/advance-trait/src/main.rs)
 - [19.3 高级类型](../advanced/advance-type/src/main.rs)
-
-
+- [19.4 函数指针和闭包](../advanced/advance-func-and-closure/src/main.rs)
 
 # 20.如何构建Web服务器
 
