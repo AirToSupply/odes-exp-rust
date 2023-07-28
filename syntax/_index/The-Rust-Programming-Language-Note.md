@@ -66,6 +66,8 @@
 
 # 14.发布配置构建和工作空间
 
+- [14.1 crate构建和发布](../crate/crate.md)
+
 # 15.智能指针
 
 - [15.1 智能指针-Box](../smart-pointer/pointer-box/src/main.rs)
