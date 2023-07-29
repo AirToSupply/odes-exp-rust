@@ -67,6 +67,7 @@
 # 14.发布配置构建和工作空间
 
 - [14.1 crate构建和发布](../crate/crate.md)
+- [14.2 crate和工作空间](../workspace/workspace.md)
 
 # 15.智能指针
 
